@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">temperatureapp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="From">textFrom</string>
+    <string name="textFrom">From</string>
+    <string name="textTo">To</string>
+    <string name="textConvert">Convert</string>
+    <string name="textFahrenheit">Fahrenheit</string>
+    <string name="textCelsius">Celsius</string>
+    <string name="textKelvin">Kelvin</string>
+
+</resources>
